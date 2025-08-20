@@ -1,6 +1,6 @@
 <h1 align="center">✦ 𝗡𝗮𝗴𝗶 𝗕𝗼𝘁 𝗦𝘂𝗽𝗿𝗲𝗺𝗲 ✦</h1>
 
- <img src= "https://qu.ax/PPBxP.mp4">
+ <img src= "https://qu.ax/pXLQR.jpeg">
     </p>
 
 ### **`❕️ Información importante`**
