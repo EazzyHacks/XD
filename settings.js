@@ -17,22 +17,22 @@ global.botNumber = '' //Ejemplo: 573218138672
 
 global.owner = [
 // <-- Número @s.whatsapp.net -->
-  ['573196588149', '🜲 Propietario 🜲', true],
-  ['5492916450307'],
-  ['5219541690054'],
-  ['5214811527445'], 
-  ['5216671548329'],
+  ['51936994155', '🜲 Propietario 🜲', true],
+  ['51957764960'],
+  ['51936994155'],
+  ['51957764960'], 
+  ['51936994155'],
   
 // <-- Número @lid -->
 //  ['', 'Destroy', true],
-  ['258892692984006', 'DevAlexJs', true], 
-  ['58566677377081', 'Legna', true]
+  ['222265178386528', 'Cris', true], 
+  ['44732688380021', 'Nagi', true]
 ];
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.mods = []
-global.suittag = ['573196588149'] 
+global.suittag = ['51936994155'] 
 global.prems = []
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
@@ -40,47 +40,47 @@ global.prems = []
 global.libreria = 'Baileys'
 global.baileys = 'V 6.7.17' 
 global.vs = '2.2.5'
-global.nameqr = 'YukiBot-MD'
-global.namebot = '✿◟Yυƙι-Sυσυ-Bσƚ◞✿'
+global.nameqr = 'NagiBot-MD'
+global.namebot = '✿◟Nagi-Bot-Md◞✿'
 global.sessions = 'Sessions'
 global.jadi = 'JadiBots' 
 global.yukiJadibts = true
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.packname = '⪛✰ 𝐘𝐮𝐤𝐢-𝐒𝐮𝐨𝐮-𝐁𝐨𝐭 ✰⪜'
-global.botname = 'ᥡᥙkі sᥙ᥆ᥙ'
-global.wm = '✿◟Yυƙι Sυσυ◞✿'
-global.author = '© mᥲძᥱ ᥕі𝗍һ ᑲᥡ ⁱᵃᵐ|𝔇ĕ𝐬†𝓻⊙γ𒆜'
-global.dev = '© ⍴᥆ᥕᥱrᥱძ ᑲᥡ ⁱᵃᵐ|𝔇ĕ𝐬†𝓻⊙γ𒆜'
-global.textbot = 'Yuki, mᥲძᥱ ᥕі𝗍һ ᑲᥡ ⁱᵃᵐ|𝔇ĕ𝐬†𝓻⊙γ'
-global.etiqueta = 'ⁱᵃᵐ|𝔇ĕ𝐬†𝓻⊙γ𒆜'
+global.packname = '⪛✰ 𝗡𝗮𝗴𝗶 𝗕𝗼𝘁 𝗦𝘂𝗽𝗿𝗲𝗺𝗲 ✰⪜'
+global.botname = '𝗡𝗮𝗴𝗶 𝗦𝘂𝗽𝗿𝗲𝗺𝗲'
+global.wm = '✿◟𝗡𝗮𝗴𝗶 𝗕𝗼𝘁 𝗠𝗱◞✿'
+global.author = '©𝗲𝘃𝗼𝗹𝘂𝘁𝗶𝗼𝗻.𝗵𝗮𝘅'
+global.dev = '©𝗲𝘃𝗼𝗹𝘂𝘁𝗶𝗼𝗻.𝗵𝗮𝘅'
+global.textbot = '𝗡𝗮𝗴𝗶 𝗕𝗼𝘁 𝗦𝘂𝗽𝗿𝗲𝗺𝗲'
+global.etiqueta = '@𝗲𝘃𝗼𝗹𝘂𝘁𝗶𝗼𝗻.𝗵𝗮𝘅'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.moneda = '¥enes'
+global.moneda = 'Soles'
 global.welcom1 = '❍ Edita Con El Comando setwelcome'
 global.welcom2 = '❍ Edita Con El Comando setbye'
-global.banner = 'https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742678744381.jpeg'
-global.avatar = 'https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742678797993.jpeg'
+global.banner = 'https://qu.ax/yZRbT.jpeg'
+global.avatar = 'https://qu.ax/pXLQR.jpeg'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.gp1 = 'https://chat.whatsapp.com/HaKf6ezcwdbGzmH782eBal?mode=r_c'
-global.comunidad1 = 'https://chat.whatsapp.com/I0dMp2fEle7L6RaWBmwlAa'
-global.channel = 'https://whatsapp.com/channel/0029Vb64nWqLo4hb8cuxe23n'
-global.channel2 = 'https://whatsapp.com/channel/0029VbAfPu9BqbrEMFWXKE0d'
-global.md = 'https://github.com/The-King-Destroy/Yuki_Suou-Bot'
-global.correo = 'thekingdestroy507@gmail.com'
+global.gp1 = 'https://chat.whatsapp.com/Ik5Yt8m6Tc82Gmi6y6b4EE'
+global.comunidad1 = 'https://chat.whatsapp.com/Ik5Yt8m6Tc82Gmi6y6b4EE'
+global.channel = 'https://whatsapp.com/channel/0029Vb5oUp43LdQUVViHwc0m'
+global.channel2 = 'https://whatsapp.com/channel/0029Vb5oUp43LdQUVViHwc0m'
+global.md = 'https://github.com'
+global.correo = 'yallico2024@gmail.com'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.catalogo = fs.readFileSync('./src/catalogo.jpg');
 global.estilo = { key: {  fromMe: false, participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "5219992095479-1625305606@g.us" } : {}) }, message: { orderMessage: { itemCount : -999999, status: 1, surface : 1, message: packname, orderTitle: 'Bang', thumbnail: catalogo, sellerJid: '0@s.whatsapp.net'}}}
 global.ch = {
-ch1: '120363401404146384@newsletter',
-ch2: "120363420992828502@newsletter",
-ch3: "120363419171116775@newsletter"
+ch1: '120363419947391620@newsletter',
+ch2: "120363419947391620@newsletter",
+ch3: "120363419947391620@newsletter"
 }
 global.multiplier = 60
 
