@@ -15,7 +15,7 @@ const { say } = cfonts;
 const rl = createInterface(process.stdin, process.stdout);
 
 function verify() {
-  const dirs = ['tmp', 'Sesiones/Subbots', 'Sesiones/Principal'];
+  const dirs = ['tmp', 'Sesiones'];
   for (const dir of dirs) {
     if (typeof dir === 'string' && dir.trim() !== '') {
       if (!existsSync(dir)) {
