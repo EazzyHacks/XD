@@ -19,6 +19,28 @@ Aquí tienes la lista de comandos
 │🜸 Baileys » Multi Device
 ╰─────────────────
 
+• :･ﾟ⊹˚• \`『 Free Fire 』\` •˚⊹:･ﾟ•
+> ✦ Lista De Apostado 4vs4 Sur.
+ᰔᩚ *#vs4*
+> ✦ Lista De By 6vs6 Sur.
+ᰔᩚ *#vs6*
+> ✦ Lista De Infinito 4vs4 Sur.
+ᰔᩚ *#500*
+> ✦ Lista De Scrim Sur.
+ᰔᩚ *#scrimsur*
+> ✦ Lista De Cuadrilatero Sur.
+ᰔᩚ *#cuadrilatero*
+> ✦ Lista De Apostado 4vs4 EeUu.
+ᰔᩚ *#4vs4*
+> ✦ Lista De By 6vs6 EeUu.
+ᰔᩚ *#6vs6*
+> ✦ Lista De Infinito 4vs4 EeUu.
+ᰔᩚ *#infi*
+> ✦ Lista De Scrim EeUu.
+ᰔᩚ *#scrimeeuu*
+> ✦ Lista De Cuadrilatero EeUu.
+ᰔᩚ *#cuadri*
+
 • :･ﾟ⊹˚• \`『 Info-Bot 』\` •˚⊹:･ﾟ•
 
 ❍ Comandos para ver estado e información de la Bot.
@@ -63,6 +85,8 @@ Aquí tienes la lista de comandos
 
 ❍ Comandos para realizar búsquedas en distintas plataformas.
 ᰔᩚ *#tiktoksearch • #tiktoks*
+> ✦ Videos Hot.
+ᰔᩚ *#tiktokhot*
 > ✦ Buscador de videos de tiktok.
 ᰔᩚ *#tweetposts*
 > ✦ Buscador de posts de Twitter/X.
